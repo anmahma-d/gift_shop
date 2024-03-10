@@ -106,7 +106,7 @@ nav header .links li a.active {
 .category {
     position: relative;
     padding: 50px;
-    background: url(gift-3.jpg) no-repeat center center;
+    background: url(./gift-3.jpg) no-repeat center center;
     background-size: cover;
     border: 18px solid white;
     border-radius: 10px;
@@ -221,7 +221,7 @@ nav header .links li a.active {
     display: block;
     min-height: 57vh;
     min-width: 50vh;
-    background: url(about-us.jpg) no-repeat center center;
+    background: url(./about-us.jpg) no-repeat center center;
     background-size: cover;
     border-radius: 20px;
 }
